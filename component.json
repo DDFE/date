@@ -1,0 +1,6 @@
+{
+  "name": "date",
+  "version": "0.0.1",
+  "main": "date.js",
+  "description": "日期一些扩展辅助方法"
+}
